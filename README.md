@@ -11,7 +11,7 @@ I'm an aspiring junior developer eager to learn and grow in the world of coding.
 * 🚀  I'm currently working on [A car rental website](http://github.com/Erick559/Car-Showcase-App)
 * 🧠  I'm learning React, NodeJs
 * 🤝  I'm open to collaborating on Developing Web apps
-* ⚡  I dabble in digital art when I need a break from coding, turning bits and bytes into pixels and colors.
+* ⚡  I dabble in digital art and board games when I need a break from coding.
 
 ### Skills
 
