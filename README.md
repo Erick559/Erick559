@@ -8,7 +8,7 @@ I'm an aspiring junior developer eager to learn and grow in the world of coding.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [erickungu82@gmail.com](mailto:erickungu82@gmail.com)
-* 🚀  I'm currently working on [IntelliKit(a SaaS web app that offers mulitple AI Tools.)](http://github.com/Erick559/Car-Showcase-App)
+* 🚀  I'm currently working on [IntelliKit(a SaaS web app that offers mulitple AI Tools.)](https://github.com/Erick559/Intelli-Kit)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  I dabble in digital art and board games when I need a break from coding.
