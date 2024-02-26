@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">Passionate web developer weaving digital narratives with code, and a devoted follower of Greek philosophy seeking wisdom in both the realms of technology and ancient wisdom.</h3>
+<h3 align="center">I love building websites with passion, using code to tell stories. I'm also really into Stoicism, an ancient philosophy, trying to find wisdom in both tech and old teachings</h3>
 
 - 🔭 I’m currently working on [Mimir](https://github.com/Erick559/IntelliKit)
 
